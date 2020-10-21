@@ -1,0 +1,24 @@
+{
+  "osobe": [
+    {
+      "id": 1,
+      "imeprezime": "Ana Klarić",
+      "email": "anaklaric@gmail.com"
+    },
+    {
+      "id": 2,
+      "imeprezime": "Marija Šarić",
+      "email": "marijasaric@gmail.com"
+    },
+    {
+      "id": 3,
+      "imeprezime": "Lana Parić",
+      "email": "lanaparic@gmail.com"
+    },
+    {
+      "id": 4,
+      "imeprezime": "Luka Dadic",
+      "email": "lukadadic@gmail.com"
+    }
+  ]
+}
