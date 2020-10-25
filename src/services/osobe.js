@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const osnovniUrl = 'http://localhost:3001/osobe'
+const osnovniUrl = '/osobe' //pisemo samo nastavak putanje jer kad je na internetu, nece bit localhost
+//const osnovniUrl = 'http://localhost:3001/osobe' //cijela putanja treba za lokalno na racunalu
 
 const dohvatiSve = () => {
     return axios.get(osnovniUrl);
