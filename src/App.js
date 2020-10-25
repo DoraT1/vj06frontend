@@ -77,7 +77,7 @@ const promjenaFilter = (e) => { //filter
   return(
     <div>
       <div>
-        <h1>Adresar - novo</h1>
+        <h1>Adresar - Novo</h1>
         <ul>
           {zaIspis.map(o => 
           <Osoba 
